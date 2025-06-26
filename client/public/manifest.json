@@ -1,0 +1,21 @@
+{
+  "name": "Windora",
+  "short_name": "Windora",
+  "description": "Modern weather application FR",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1976d2",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "Windora_Icon.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Windora_Icon.webp",
+      "sizes": "1024x1024",
+      "type": "image/webp"
+    }
+  ]
+}
