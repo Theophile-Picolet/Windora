@@ -36,7 +36,11 @@ export default function WeatherMaps() {
   };
 
   if (!weatherData || !cityData[0]) {
-    return <p>cherchez une ville</p>;
+    return (
+      <p className="centered-message">
+        Vous n'avez pas encore recherché une ville
+      </p>
+    );
   }
 
   return (
