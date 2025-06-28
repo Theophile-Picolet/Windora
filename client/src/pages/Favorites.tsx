@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-import "../Styles/favorites.css";
+import "../Styles/Favorites.css";
 import { ToastContainer, toast } from "react-toastify";
 import { Flip } from "react-toastify";
 import { useWeather } from "../components/WeatherContext";
