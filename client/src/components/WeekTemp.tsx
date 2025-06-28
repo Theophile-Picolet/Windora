@@ -8,7 +8,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import "../styles/WeekTemp.css";
+import "../Styles/WeekTemp.css";
 import { useWeather } from "./WeatherContext";
 
 export default function WeekTemp() {

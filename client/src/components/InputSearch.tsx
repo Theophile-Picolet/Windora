@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "../styles/InputSearch.css";
+import "../Styles/InputSearch.css";
 import SvgIcons from "./SvgIcons";
 import { useWeather } from "./WeatherContext";
 
