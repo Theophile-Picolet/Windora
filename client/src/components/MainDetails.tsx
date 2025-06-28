@@ -1,4 +1,4 @@
-import "../styles/MainDetails.css";
+import "../Styles/MainDetails.css";
 import { useWeather } from "../components/WeatherContext";
 
 export default function MainDetails() {

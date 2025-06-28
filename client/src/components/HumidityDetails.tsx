@@ -8,7 +8,7 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
-import "../styles/HumidityDetails.css";
+import "../Styles/HumidityDetails.css";
 
 import { useWeather } from "./WeatherContext";
 

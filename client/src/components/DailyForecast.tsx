@@ -1,4 +1,4 @@
-import "../styles/DailyForecast.css";
+import "../Styles/DailyForecast.css";
 import { useEffect, useMemo, useState } from "react";
 import { useWeather } from "./WeatherContext";
 

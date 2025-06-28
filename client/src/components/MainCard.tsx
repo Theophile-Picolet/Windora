@@ -1,4 +1,4 @@
-import "../styles/MainCard.css";
+import "../Styles/MainCard.css";
 import { Flip, ToastContainer, toast } from "react-toastify";
 import CurrentDate from "./CurrentDate";
 import SvgIcons from "./SvgIcons";

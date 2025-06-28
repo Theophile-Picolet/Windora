@@ -1,4 +1,4 @@
-import "../styles/Cardhours.css";
+import "../Styles/Cardhours.css";
 
 export default function Cardhours({ day }: DayTypes) {
   const dateString = day.dt_txt;
