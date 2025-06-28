@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import "../styles/FormPage.css";
+import "../Styles/FormPage.css";
 import { useEffect, useState } from "react";
 import { useWeather } from "../components/WeatherContext";
 
